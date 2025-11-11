@@ -14,7 +14,7 @@ npm install
 npm start
 \`\`\`
 
-## Features
+## Features // updated
 
 - Feature 1
 - Feature 2
